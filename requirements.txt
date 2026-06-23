@@ -7,3 +7,4 @@ passlib
 bcrypt 
 requests
 dotenv
+jose
