@@ -7,4 +7,4 @@ passlib
 bcrypt 
 requests
 dotenv
-jose
+python-jose
